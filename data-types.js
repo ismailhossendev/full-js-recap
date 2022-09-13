@@ -25,6 +25,7 @@ for (i of ismail) {
 }
 // console.log(ismail.includes('i'));
 // console.log(ismail.indexOf('i'));
+// console.log(ismail.charAt(10))
 // console.log(ismail.toUpperCase());
 // console.log(ismail.toLowerCase());
 // console.log(ismail.substring(20,30));
